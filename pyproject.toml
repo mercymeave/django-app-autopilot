@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "Django Autopilot Article"
+name = "Django Autopilot Project"
 version = "0.1.0"
-description = "This is a project to showcase how to write clean and readable django code, with automated testing and formating using pre-commit hooks."
+description = "This is a Django project to showcase how to write clean and readable django code, with automated testing and formating using pre-commit hooks."
 authors = ["Mercy Meave <mercymeave@gmail.com>"]
 license = "MIT"
 
